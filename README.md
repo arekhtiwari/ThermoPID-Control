@@ -119,7 +119,7 @@ From the simulations, we conclude that different PID tuning methods can be chose
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/username/PID-Controller-Tuning.git
+   git clone https://github.com/arekhtiwari/PID-Controller-Tuning.git
    ```
 
 2. **Arduino Code**:
