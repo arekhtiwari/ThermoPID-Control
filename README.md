@@ -95,14 +95,11 @@ Graphs and performance metrics for various tuning methods.
 
 - **Ziegler-Nichols Open Loop Method**  
   - Settling Time: 46.62 seconds
+  - Rise Time: 45.48 seconds
   - Overshoot: 1.744%
 
   ![Ziegler-Nichols Results](images/ziegler_nichols_results.JPG)  
   _Caption: Ziegler-Nichols tuning method showing balanced settling time and overshoot._
-
----
-
-Here’s a concise table to summarize the conclusions, replacing the image with the case details in a structured format:
 
 ---
 
